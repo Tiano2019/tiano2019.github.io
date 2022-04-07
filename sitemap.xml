@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tiano2019.github.io/hugo-blog/posts/my-first-post/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tiano2019.github.io/hugo-blog/categories/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tiano2019.github.io/hugo-blog/tags/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tiano2019.github.io/hugo-blog/posts/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tiano2019.github.io/hugo-blog/categories/syntax/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tiano2019.github.io/hugo-blog/tags/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tiano2019.github.io/hugo-blog/categories/themes/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tiano2019.github.io/hugo-blog/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tiano2019.github.io/hugo-blog/archives/</loc>
+  </url><url>
+    <loc>https://tiano2019.github.io/hugo-blog/search/</loc>
+  </url><url>
+    <loc>https://tiano2019.github.io/hugo-blog/series/</loc>
+  </url>
+</urlset>
